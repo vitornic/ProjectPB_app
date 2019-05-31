@@ -13,3 +13,9 @@ Instalação Ionic (CMD): npm install -g ionic cordova
 CMD: Ionic -v (ver se ta isntalado)
 
 CMD: cordova -v
+
+# Modo Portable
+
+NodeJS binário: https://nodejs.org/en/download/
+
+CMD: set PATH=%PATH%;C:\local\de\instalacao
